@@ -1,0 +1,76 @@
+{
+  "products": [
+    {
+      "id": 1742503349945,
+      "name": "iPhone 13",
+      "image": "images/product-img/iPhone/13-white.jpg",
+      "price": 19990000,
+      "color": "white",
+      "storage": "128",
+      "quantity": 1
+    },
+    {
+      "id": 1742504074892,
+      "name": "iPhone 13",
+      "image": "images/product-img/iPhone/13-green.jpg",
+      "price": 19990000,
+      "color": "green",
+      "storage": "128",
+      "quantity": 1
+    },
+    {
+      "id": 1742504265976,
+      "name": "iPhone 13",
+      "image": "images/product-img/iPhone/13-white.jpg",
+      "price": 19990000,
+      "color": "white",
+      "storage": "512",
+      "quantity": 1
+    },
+    {
+      "id": 1742511277495,
+      "name": "iPhone 13",
+      "image": "images/product-img/iPhone/13-white.jpg",
+      "price": 19990000,
+      "color": "white",
+      "storage": "128",
+      "quantity": 1
+    },
+    {
+      "id": 1742514711475,
+      "name": "iPhone 13",
+      "image": "images/product-img/iPhone/13-white.jpg",
+      "price": 19990000,
+      "color": "white",
+      "storage": "128",
+      "quantity": 1
+    }
+  ],
+  "product": [
+    {
+      "id": 1,
+      "name": "iPhone 13",
+      "image": "images/product-img/iPhone/13-white.jpg",
+      "price": 19990000,
+      "storage": "128",
+      "quantity": 1
+    },
+    {
+      "id": 2,
+      "name": "Samsung Galaxy S25 Ultra",
+      "image": "images/product-img/SamSung/25ultra-trang.jpg",
+      "price": 28990000,
+      "storage": "512",
+      "quantity": 1
+    },
+    {
+      "id": 1742505033823,
+      "name": "sdfsdg",
+      "price": 23456,
+      "image": "23456",
+      "color": "234567",
+      "storage": "ư4567",
+      "quantity": 1
+    }
+  ]
+}
